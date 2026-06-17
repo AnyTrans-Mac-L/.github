@@ -1,7 +1,7 @@
 # AnyTrans Mac
 
 <p align="center">
-  <img src="https://static.macupdate.com/products/52326/l/anytrans-logo.png?v=1663833343" width="150" alt="AnyTrans icon"/>
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/22/9d/cb/229dcbdf-82b9-9ba9-8248-0fa1aafb9440/Placeholder.mill/200x200bb-75.webp" width="150" alt="AnyTrans icon"/>
 </p>
 
 <div align="center">
@@ -27,7 +27,7 @@ The <a href="#anyTrans">selective transfer engine</a> moves specific items in ei
 The <a href="#anyTrans">phone-to-phone migration</a> moves the complete content of one iPhone to another through the Mac — carrying contacts, messages, photos, app data, and settings from an old device to a new one with more selectivity and control than Apple's standard device setup migration. The <a href="#anyTrans">iCloud manager</a> browses and downloads content from iCloud backups without restoring to a device — extracting specific photos, messages, or contacts from an iCloud backup and saving them to Mac storage or transferring to a device for selective iCloud recovery.
 
 <p align="center">
-  <img src="https://static.macupdate.com/screenshots/345563/m/anytrans-screenshot.png?v=1663833364" alt="AnyTrans screenshot"/>
+  <img src="https://img.utdstc.com/screen/a79/9a9/a799a94cee4e05ed1e162077f18d54e4375534d135a3f091fb6c5e910e3d51d8:600" alt="AnyTrans screenshot"/>
 </p>
 
 <a href="#anyTrans">HEIC to JPEG automatic conversion</a> processes iPhone photos during transfer to Mac — converting Apple's HEIC format to universally compatible JPEG without a separate conversion step so transferred photos open in any application. <a href="#anyTrans">WhatsApp and messaging app data export</a> saves WhatsApp conversations, Line messages, and other messaging app content — exporting chat histories with attachments to readable PDF or HTML files that preserve years of conversation as accessible documents.
